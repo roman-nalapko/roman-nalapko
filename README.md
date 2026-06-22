@@ -30,21 +30,21 @@ Infra       Docker · PostgreSQL · Linux
 
 ---
 
-## 📌 Featured Projectss
+## 📌 Featured Projects
 
 | Project | What It Does | Stack |
 |---|---|---|
-| [ai-rag-assistant](#) | Document Q&A with source citations | FastAPI · ChromaDB · OpenAI |
-| [ai-automation-pipeline](#) | Email → LLM analysis → Slack/Notion | n8n · Python · Claude API |
-| [ai-agent-system](#) | Multi-agent research & report generation | LangGraph · Tool Calling · FastAPI |
-| [telegram-ai-bot](#) | AI support bot with conversation memory | aiogram · OpenAI · PostgreSQL |
+| [ai-rag-assistant](https://github.com/roman-nalapko/ai-rag-assistant) | Document Q&A with source citations | FastAPI · ChromaDB · OpenAI |
+| [ai-automation-pipeline](https://github.com/roman-nalapko/ai-automation-pipeline) | Email → LLM analysis → Slack/Notion | n8n · Python · Claude API |
+| [ai-agent-system](https://github.com/roman-nalapko/ai-agent-system) | Multi-agent research & report generation | LangGraph · Tool Calling · FastAPI |
+| [llm-telegram-bot](https://github.com/roman-nalapko/llm-telegram-bot) | AI support bot with conversation memory | aiogram · OpenAI · PostgreSQL |
 
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roman--nalapko-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/roman-nalapko-aa70b9327)
-[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=flat&logo=upwork)](https://upwork.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01ab0e72721cea1c2e)
 [![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=flat&logo=gmail)](mailto:your@email.com)
 
 ---
