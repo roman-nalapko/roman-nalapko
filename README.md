@@ -37,7 +37,7 @@ Infra       Docker · PostgreSQL · Linux
 | [ai-rag-assistant](https://github.com/roman-nalapko/ai-rag-assistant) | Document Q&A with source citations | FastAPI · ChromaDB · OpenAI |
 | [ai-automation-pipeline](https://github.com/roman-nalapko/ai-automation-pipeline) | Email → LLM analysis → Slack/Notion | n8n · Python · Claude API |
 | [ai-agent-system](https://github.com/roman-nalapko/ai-agent-system) | Multi-agent research & report generation | LangGraph · Tool Calling · FastAPI |
-| [llm-telegram-bot](https://github.com/roman-nalapko/llm-telegram-bot) | AI support bot with conversation memory | aiogram · OpenAI · PostgreSQL |
+| [ai-intelligence-platform](https://github.com/roman-nalapko/ai-intelligence-platform) | AI support bot with conversation memory | aiogram · OpenAI · PostgreSQL |
 
 ---
 
