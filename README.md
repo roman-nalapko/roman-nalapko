@@ -25,21 +25,29 @@ teams.
 | **Databases**      | PostgreSQL                                                   |
 | **Infrastructure** | Docker · GitHub Actions · Linux                              |
 
-## Featured Projects
+## Featured Project
 
-| Project                                                                               | Description                                                                                                                       | Stack                                              |
-| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **[AI RAG Platform](https://github.com/roman-nalapko/ai-rag-platform)**               | Production-oriented local-first RAG backend with document ingestion, semantic search, streaming QA, evaluation and observability. | FastAPI · PostgreSQL · Qdrant · LM Studio · Docker |
-| [AI Agent System](https://github.com/roman-nalapko/ai-agent-system)                   | Agent-oriented AI workflow project.                                                                                               | See repository                                     |
-| [AI Automation Pipeline](https://github.com/roman-nalapko/ai-automation-pipeline)     | AI-assisted business workflow automation project.                                                                                 | See repository                                     |
-| [AI Intelligence Platform](https://github.com/roman-nalapko/ai-intelligence-platform) | Conversational AI application project.                                                                                            | See repository                                     |
-| [AI RAG Assistant](https://github.com/roman-nalapko/ai-rag-assistant)                 | Earlier document question-answering project.                                                                                      | See repository                                     |
+### AI RAG Platform
+
+Production-ready local-first RAG system.
+
+Features:
+
+- FastAPI async backend
+- PostgreSQL + Alembic
+- Qdrant vector database
+- LM Studio local LLM
+- Multi-tenant knowledge bases
+- Semantic search
+- Streaming AI chat
+- Conversation memory
+- Evaluation pipeline
+- Docker + CI
+
+Repository:
+[https://github.com/roman-nalapko/ai-rag-platform](https://github.com/roman-nalapko/ai-rag-platform)
 
 [![AI RAG Platform CI](https://github.com/roman-nalapko/ai-rag-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/roman-nalapko/ai-rag-platform/actions/workflows/ci.yml)
-
-The [AI RAG Platform repository](https://github.com/roman-nalapko/ai-rag-platform)
-includes architecture documentation, a complete local demo flow, automated
-tests, database migrations, Docker setup, and an offline RAG evaluation pipeline.
 
 ## Engineering Approach
 
