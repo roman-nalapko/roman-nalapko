@@ -38,7 +38,7 @@ Open to AI Engineer, LLM Engineer, and Python Backend opportunities with EU/US t
 
 ### AI RAG Platform
 
-Production-ready local-first RAG system.
+Production-oriented local-first RAG backend built to demonstrate real AI engineering patterns.
 
 Features:
 
@@ -67,7 +67,8 @@ that cover retrieval and generated answers—not only successful API responses.
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roman--nalapko-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/roman-nalapko-aa70b9327)
-[![Upwork](https://img.shields.io/badge/Upwork-Available-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ab0e72721cea1c2e)
+
+[![GitHub](https://img.shields.io/badge/GitHub-roman--nalapko-black?style=flat&logo=github)](https://github.com/roman-nalapko)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=roman-nalapko&color=6C5CE7&style=flat" alt="Profile views" />
