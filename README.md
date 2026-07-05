@@ -1,10 +1,12 @@
 # Roman Nalapko — AI Engineer | Python Backend | LLM Applications
 
-Building production-oriented LLM applications with Python, FastAPI, vector
-databases and local AI infrastructure.
+Building production-oriented LLM applications with Python, FastAPI, vector databases and local AI infrastructure.
 
-Open to AI Engineer, LLM Engineer, and Python Backend opportunities with EU/US
-teams.
+Open to AI Engineer, LLM Engineer, and Python Backend opportunities with EU/US teams.
+
+## 📄 Resume
+
+[Download CV](./Roman_Nalapko_AI_Engineer_CV_Public.pdf)
 
 ## Focus Areas
 
