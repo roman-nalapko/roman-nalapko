@@ -1,56 +1,51 @@
-# Roman Nalapko — Python Backend & AI/LLM Engineer
+# Roman Nalapko — AI Engineer | Python Backend | LLM Applications
 
-I build production-oriented AI backends: asynchronous APIs, document ingestion,
-semantic retrieval, grounded LLM applications, and the infrastructure needed to
-run and evaluate them. My current focus is local-first RAG systems with clean
-architecture, observable processing pipelines, and no dependency on paid AI APIs.
+Building production-oriented AI systems with RAG, agents, automation pipelines
+and local LLM infrastructure.
 
-Open to Python Backend, AI Engineer, and LLM Engineer opportunities in EU/US teams.
+Open to AI Engineer, LLM Engineer, and Python Backend opportunities with EU/US
+teams.
 
-## Featured project
+## What I Build
 
-### [AI RAG Platform](https://github.com/roman-nalapko/ai-rag-platform)
+- **Production RAG Platforms:** Multi-tenant document intelligence systems with
+  semantic search, citations and streaming chat.
+- **LLM Applications:** OpenAI-compatible integrations, local models, and prompt
+  pipelines.
+- **AI Automation:** Python and n8n workflows for business process automation.
+- **Backend Systems:** Async FastAPI APIs, PostgreSQL, Docker, and CI/CD.
 
-[![CI](https://github.com/roman-nalapko/ai-rag-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/roman-nalapko/ai-rag-platform/actions/workflows/ci.yml)
-[![Python 3.14](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Local AI](https://img.shields.io/badge/AI-local--first-6C5CE7)](https://lmstudio.ai/)
+## Stack
 
-A production-style, multi-user Retrieval-Augmented Generation backend built as
-an end-to-end AI engineering portfolio project.
+| Area               | Technologies                                                 |
+| ------------------ | ------------------------------------------------------------ |
+| **Backend**        | Python · FastAPI · asyncio · SQLAlchemy                      |
+| **AI**             | RAG · LLMs · Embeddings · Vector Search · Prompt Engineering |
+| **Vector**         | Qdrant · ChromaDB                                            |
+| **Databases**      | PostgreSQL                                                   |
+| **Infrastructure** | Docker · GitHub Actions · Linux                              |
 
-- Async FastAPI API with Pydantic v2 and SQLAlchemy
-- PostgreSQL 17 data model with versioned Alembic migrations
-- PDF/TXT ingestion, background processing, and observable document states
-- LM Studio embeddings and chat through an OpenAI-compatible local API
-- Qdrant cosine search with knowledge-base isolation
-- Grounded QA with source attribution, conversation memory, and SSE streaming
-- Structured JSON logging, request IDs, and AI/RAG latency measurements
-- Offline RAG evaluation, pytest, Ruff, Docker Compose, and GitHub Actions
+## Featured Projects
 
-**Stack:** Python 3.14 · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Qdrant ·
-LM Studio · Docker · pytest · Ruff · GitHub Actions
+| Project                                                                               | Description                                                                                                                       | Stack                                              |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **[AI RAG Platform](https://github.com/roman-nalapko/ai-rag-platform)**               | Production-oriented local-first RAG backend with document ingestion, semantic search, streaming QA, evaluation and observability. | FastAPI · PostgreSQL · Qdrant · LM Studio · Docker |
+| [AI Agent System](https://github.com/roman-nalapko/ai-agent-system)                   | Agent-oriented AI workflow project.                                                                                               | See repository                                     |
+| [AI Automation Pipeline](https://github.com/roman-nalapko/ai-automation-pipeline)     | AI-assisted business workflow automation project.                                                                                 | See repository                                     |
+| [AI Intelligence Platform](https://github.com/roman-nalapko/ai-intelligence-platform) | Conversational AI application project.                                                                                            | See repository                                     |
+| [AI RAG Assistant](https://github.com/roman-nalapko/ai-rag-assistant)                 | Earlier document question-answering project.                                                                                      | See repository                                     |
 
-## Engineering focus
+[![AI RAG Platform CI](https://github.com/roman-nalapko/ai-rag-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/roman-nalapko/ai-rag-platform/actions/workflows/ci.yml)
 
-```text
-Backend       Python · asyncio · FastAPI · Pydantic · SQLAlchemy
-AI / RAG      embeddings · semantic search · grounded generation · evaluation
-Data          PostgreSQL · Qdrant · Alembic
-Local LLM     LM Studio · OpenAI-compatible APIs
-Quality       pytest · Ruff · structured logging · CI
-Infrastructure Docker · Docker Compose · GitHub Actions
-```
+The [AI RAG Platform repository](https://github.com/roman-nalapko/ai-rag-platform)
+includes architecture documentation, a complete local demo flow, automated
+tests, database migrations, Docker setup, and an offline RAG evaluation pipeline.
 
-I care about explicit architectural boundaries, failure handling, tenant-scoped
-data access, reproducible local setup, and quality checks that go beyond a demo
-returning one successful answer.
+## Engineering Approach
 
-## Other AI projects
-
-- [AI Agent System](https://github.com/roman-nalapko/ai-agent-system)
-- [AI Automation Pipeline](https://github.com/roman-nalapko/ai-automation-pipeline)
-- [AI Intelligence Platform](https://github.com/roman-nalapko/ai-intelligence-platform)
-- [AI RAG Assistant](https://github.com/roman-nalapko/ai-rag-assistant)
+I focus on clear architectural boundaries, async I/O, failure handling,
+tenant-scoped data access, reproducible local environments, and quality checks
+that cover retrieval and generated answers—not only successful API responses.
 
 ## Contact
 
