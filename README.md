@@ -1,19 +1,26 @@
 # Roman Nalapko — AI Engineer | Python Backend | LLM Applications
 
-Building production-oriented AI systems with RAG, agents, automation pipelines
-and local LLM infrastructure.
+Building production-oriented LLM applications with Python, FastAPI, vector
+databases and local AI infrastructure.
 
 Open to AI Engineer, LLM Engineer, and Python Backend opportunities with EU/US
 teams.
 
-## What I Build
+## Focus Areas
 
-- **Production RAG Platforms:** Multi-tenant document intelligence systems with
+- **RAG Systems:** Multi-tenant document intelligence systems with
   semantic search, citations and streaming chat.
 - **LLM Applications:** OpenAI-compatible integrations, local models, and prompt
   pipelines.
 - **AI Automation:** Python and n8n workflows for business process automation.
 - **Backend Systems:** Async FastAPI APIs, PostgreSQL, Docker, and CI/CD.
+
+## Currently focused on:
+
+- RAG architecture
+- LLM evaluation
+- AI agents
+- scalable backend systems
 
 ## Stack
 
