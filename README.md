@@ -34,16 +34,6 @@ A local-first document intelligence backend that demonstrates production-oriente
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-dc244c)](https://qdrant.tech/)
 
-### [SeaRisk UA](https://github.com/roman-nalapko/maritime-risk-app)
-
-A browser-only maritime risk research PWA built around transparent calculations and public data.
-
-- Deterministic, explainable risk factors with clear limitations and source tracking.
-- Processing and aggregation of official MAIB incident data with privacy thresholds.
-- Offline-capable PWA with Ukrainian, English, and Russian localization.
-- Automated checks for accessibility, governance, research methodology, and feature behavior.
-- Automated deployment through GitHub Actions to [GitHub Pages](https://roman-nalapko.github.io/maritime-risk-app/).
-
 ## Engineering principles
 
 - Keep HTTP, business, data, and provider boundaries explicit.
