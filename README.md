@@ -34,6 +34,21 @@ A local-first document intelligence backend demonstrating reliable backend, retr
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-dc244c)](https://qdrant.tech/)
 
+### [Neovim + Ghostty Development Environment](https://github.com/roman-nalapko/nvim-dev-config)
+
+My portable terminal development setup for macOS Apple Silicon and Debian x86-64.
+
+- Modular Neovim 0.12+ configuration built with Lua and `lazy.nvim`.
+- C/C++ workflow with clangd, clang-format, CMake/Make, LLDB-DAP, and Treesitter.
+- Additional tooling for Python, Free Pascal, ARM64 assembly, and NASM x86-64.
+- Ghostty configuration with Tokyo Night styling, transparency, blur, and JetBrainsMono Nerd Font.
+- Reproducible installers, safe configuration backups, health checks, update scripts, and automated tests.
+
+[![Neovim](https://img.shields.io/badge/Neovim-0.12+-57A143?logo=neovim&logoColor=white)](https://neovim.io/)
+[![Ghostty](https://img.shields.io/badge/Terminal-Ghostty-3551F3)](https://ghostty.org/)
+[![Lua](https://img.shields.io/badge/Config-Lua-2C2D72?logo=lua&logoColor=white)](https://www.lua.org/)
+[![Platforms](https://img.shields.io/badge/macOS_ARM64-%7C_Debian_x86--64-555555?logo=linux&logoColor=white)](https://github.com/roman-nalapko/nvim-dev-config)
+
 ## Engineering principles
 
 - Keep HTTP, business, data, and provider boundaries explicit.
