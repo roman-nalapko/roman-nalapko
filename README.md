@@ -11,12 +11,29 @@ Currently pursuing a Bachelor's degree in Information Systems and Technologies. 
 
 | Area | Technologies |
 | --- | --- |
-| Backend | Python · FastAPI · asyncio · REST APIs · SSE · webhooks · Pydantic · SQLAlchemy · Alembic |
-| Automation & AI | API integrations · workflow automation · structured model output · Gemini · Whisper · RAG · hybrid retrieval |
+| Backend & Systems | Python · FastAPI · asyncio · TypeScript · Node.js 24 · REST APIs · SSE · WebSockets · Pydantic · SQLAlchemy · Alembic |
+| Automation & AI | Autonomous agents · game AI · API integrations · workflow automation · structured model output · Gemini · Whisper · RAG · hybrid retrieval |
 | Data & platforms | PostgreSQL · SQL · Qdrant · Cloudflare Workers · D1 · KV · Docker · Linux |
-| Quality & operations | pytest · GitHub Actions · CI/CD · structured logging · health checks · Prometheus · failure handling |
+| Quality & operations | pytest · Vitest · GitHub Actions · CI/CD · structured logging · health checks · Prometheus · chaos resilience · failure handling |
 
 ## Featured projects
+
+### [Zoria Tournament AI & Game Headquarters](https://github.com/roman-nalapko/zoria)
+
+Autonomous tournament game agent, real-time analytics headquarters, and live-stream client for the Zoria 2026 AI competition (Top-15 standing, 0 protocol defects).
+
+- Real-time Champion AI bot using topological DFS crown cycle detection, 8-weight squad optimization, and dynamic auction bidding under strict 500ms tick deadlines.
+- Offline fallback state charter (`nakaz.yaml`) and Level 3 Provocateur chaos resilience (100% recovery from socket severance and in-flight `SIGKILL`).
+- Interactive Game Headquarters (HQ) single-page application with scrubbable Canvas/SVG replays and `ZARIA_HQ` host-guest protocol (passed 20/20 benchmark tasks).
+- Tamper-proof ether streaming with HMAC-SHA256 frame verification, exponential backoff transport, and Prometheus metrics.
+- 124 automated tests, strict TypeScript, Docker Compose multi-container stack, and zero protocol defects (K1: 0/9).
+
+[![CI](https://github.com/roman-nalapko/zoria/actions/workflows/ci.yaml/badge.svg)](https://github.com/roman-nalapko/zoria/actions/workflows/ci.yaml)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-24+-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Vitest](https://img.shields.io/badge/Vitest-124%20passed-729B1B?logo=vitest&logoColor=white)](https://vitest.dev/)
 
 ### [AI RAG Platform](https://github.com/roman-nalapko/ai-rag-platform)
 
